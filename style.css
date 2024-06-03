@@ -35,11 +35,11 @@ button{
     position: absolute;
     color: white;
     top: 30%;
-    left: 20%;
+    left: 15%;
     
 }
 .heading{
-    font-size: 32px;
+    font-size: 28px;
 }
 .watch{
     text-align: center;
@@ -50,5 +50,5 @@ button{
    
 }
 .para{
-    font-size: 15px;
+    font-size: 12px;
 }
