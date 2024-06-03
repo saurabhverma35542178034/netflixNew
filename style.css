@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://flexsub.shop/content/images/2021/11/1_5lyavS59mazOFnb55Z6znQ.png);
+}
+
+img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 250px;
+    height: 120px;
+}
+button{
+    background-color: red;
+    border: 0;
+    border-color: red;
+    width: 70px;
+    border-radius: 10px;
+    height: 40px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 20px;
+}
+.button1{
+    
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+.texts{
+    position: absolute;
+    color: white;
+    top: 250px;
+    left: 25%;
+    
+}
+.heading{
+    font-size: 32px;
+}
+.watch{
+    text-align: center;
+    
+}
+.ready{
+    text-align: center;
+   
+}
+.para{
+    font-size: 15px;
+}
